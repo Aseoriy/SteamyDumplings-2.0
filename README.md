@@ -1,3 +1,4 @@
+!!UNSUPPORTED NOW!!
 # 🥟 Steamy Dumplings - Steam Manifest Database
 
 A modern, responsive web application for browsing and downloading Steam game manifests with a cyberpunk aesthetic.
@@ -220,3 +221,4 @@ For issues, feature requests, or questions:
 ---
 
 **Steamy Dumplings** - The Ultimate Steam Manifest Database 🥟✨
+
